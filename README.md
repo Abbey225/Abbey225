@@ -1,7 +1,7 @@
 # Hi there, I'm Abbey! 👋
 
-## ⚡ The Bridge: SSIS On-Premise to Modern Cloud Data Engineering
-I am a Data Engineer/Data scientist with a strong foundation in traditional enterprise data integration (**SSIS / SQL Server**) who has transitioned into building code-first, scalable, cloud-native data pipelines (**Python, SQL, Docker**). 
+## ⚡ The Bridge: SSIS On-Premise to Modern Cloud Data Engineering & Data Science
+I am a Data Engineer / Data Scientist with a strong foundation in traditional enterprise data integration (**SSIS / SQL Server**) who has transitioned into building code-first, scalable, cloud-native data pipelines (**Python, SQL, Docker**). 
 
 I specialize in translating drag-and-drop workflow patterns into robust, version-controlled code architectures that eliminate environment drift and scale effortlessly.
 
@@ -35,5 +35,5 @@ I specialize in translating drag-and-drop workflow patterns into robust, version
 ---
 
 ## 📫 Let's Connect!
-* **LinkedIn:** [Connect with me on LinkedIn](www.linkedin.com/in/rotimi-obembe-826b52234)
+* **LinkedIn:** [Connect with me on LinkedIn](https://linkedin.com)
 * **Email:** obembeabiodunrotimi225@gmail.com
