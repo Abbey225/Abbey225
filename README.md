@@ -35,5 +35,5 @@ I specialize in translating drag-and-drop workflow patterns into robust, version
 ---
 
 ## 📫 Let's Connect!
-* **LinkedIn:** [Connect with me on LinkedIn](https://linkedin.com)
-* **Email:** rotimi.obembe@example.com
+* **LinkedIn:** [Connect with me on LinkedIn](www.linkedin.com/in/rotimi-obembe-826b52234)
+* **Email:** obembeabiodunrotimi225@gmail.com
