@@ -20,7 +20,7 @@ I specialize in translating drag-and-drop workflow patterns into robust, version
 
 ## 🏗️ Featured Portfolio Projects
 
-### 1. 🛒 [End-to-End Retail Data Pipeline (ELT)](https://github.com)
+### 1. 🛒 [End-to-End Retail Data Pipeline (ELT)]([https://github.com](https://github.com/Abbey225/retail-delivery-pipeline.git))
 * **What it does:** An automated pipeline that extracts raw e-commerce JSON data, ingests it into a local PostgreSQL data warehouse layer via Python, and normalizes it into analytical Fact and Dimension tables using structural SQL.
 * **Tech Stack:** Python, PostgreSQL, SQL, Docker Compose, Git.
 
