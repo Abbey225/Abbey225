@@ -24,11 +24,11 @@ I specialize in translating drag-and-drop workflow patterns into robust, version
 * **What it does:** An automated pipeline that extracts raw e-commerce JSON data, ingests it into a local PostgreSQL data warehouse layer via Python, and normalizes it into analytical Fact and Dimension tables using structural SQL.
 * **Tech Stack:** Python, PostgreSQL, SQL, Docker Compose, Git.
 
-### 2. 📈 [Real-Time Crypto Data Streaming Pipeline](https://github.com)
+### 2. 📈 [Real-Time Crypto Data Streaming Pipeline](https://github.com/Abbey225/crypto-streaming-pipeline/tree/main/scripts)
 * **What it does:** A micro-batch streaming engine that consumes live financial REST API tickers, handles low-latency transformation in-memory, and appends rows into a time-series optimized storage container.
 * **Tech Stack:** Python (Requests / Time Loops), PostgreSQL, Docker, Git.
 
-### 3. 🩺 [Data Quality & Automated Ingestion Pipeline](https://github.com)
+### 3. 🩺 [Data Quality & Automated Ingestion Pipeline]([https://github.com](https://github.com/Abbey225/data-quality-ingestion-pipeline/tree/main/scripts))
 * **What it does:** A robust Python ingestion gateway that intercepts incoming API payloads, runs structural validation checks to drop corrupted data, and logs clean records to the warehouse.
 * **Tech Stack:** Python, PostgreSQL, Data Quality Gateways, Docker.
 
