@@ -28,7 +28,7 @@ I specialize in translating drag-and-drop workflow patterns into robust, version
 * **What it does:** A micro-batch streaming engine that consumes live financial REST API tickers, handles low-latency transformation in-memory, and appends rows into a time-series optimized storage container.
 * **Tech Stack:** Python (Requests / Time Loops), PostgreSQL, Docker, Git.
 
-### 3. 🩺 [Data Quality & Automated Ingestion Pipeline]([https://github.com](https://github.com/Abbey225/data-quality-ingestion-pipeline/tree/main/scripts)
+### 3. 🩺 [Data Quality & Automated Ingestion Pipeline](https://github.com/Abbey225/data-quality-ingestion-pipeline/tree/main/scripts)
 * **What it does:** A robust Python ingestion gateway that intercepts incoming API payloads, runs structural validation checks to drop corrupted data, and logs clean records to the warehouse.
 * **Tech Stack:** Python, PostgreSQL, Data Quality Gateways, Docker.
 
